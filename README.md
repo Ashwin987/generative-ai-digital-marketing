@@ -4,7 +4,7 @@ STAT414 Final Report University of California, Los Angeles (UCLA) March 23, 2025
 
 Authors
 
-    Hochan Son 
+Hochan Son 
 
 Stephanie Lu
 
